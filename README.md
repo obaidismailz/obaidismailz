@@ -5,6 +5,8 @@
 
 <p align="left"> <a href="https://twitter.com/obaidismailz" target="blank"><img src="https://img.shields.io/twitter/follow/obaidismailz?logo=twitter&style=for-the-badge" alt="obaidismailz" /></a> </p>
 
+<p align="left"> <a href="https://instagram.com/obaidismailz" target="blank"><img src="https://img.shields.io/instagram/follow/instagram?logo=instagram&style=for-the-badge" alt="obaidismailz" /></a> </p>
+
 - 🌱 I’m currently learning **JS**
 
 - 📫 How to reach me **obaid@outlook.hu**
