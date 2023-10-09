@@ -1,7 +1,7 @@
 <h1 align="center">AOA 👋, I'm OBAID ISMAIL</h1>
 <h3 align="center">Software Engineer | Full Stack Web Developer (MERN)</h3>
 
-- 🌱 Shifted to **GitLab**
+- 💥 Switched to **GitLab**
 
 <a href="https://gitlab.com/obaidismailz" target="blank"><img src="/GitLab.jpg"  /></a>
 
@@ -11,7 +11,7 @@
 
 <p align="left"> <a href="https://instagram.com/obaidismailz" target="blank"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="obaidismailz" /></a> </p>
 
-
+<hr>
 
 - 🌱 I’m currently learning **JS**
 
