@@ -1,6 +1,8 @@
 <h1 align="center">AOA 👋, I'm OBAID ISMAIL</h1>
 <h3 align="center">Software Engineer | Full Stack Web Developer (MERN)</h3>
 
+<a href="https://gitlab.com/obaidismailz" target="blank"><img src="/GitLab.jpg"  /></a>
+
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=obaidismailz" alt="obaidismailz" /></a> </p>
 
 <p align="left"> <a href="https://twitter.com/obaidismailz" target="blank"><img src="https://img.shields.io/twitter/follow/obaidismailz?logo=twitter&style=for-the-badge" alt="obaidismailz" /></a> </p>
