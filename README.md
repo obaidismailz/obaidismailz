@@ -1,7 +1,8 @@
 <h1 align="center">AOA 👋, I'm OBAID ISMAIL</h1>
-<h3 align="center">Software Engineer | Full Stack Web Developer (MERN)</h3>
+<h3 align="center">Software Engineer | Frontend Developer</h3>
 
 - 💥 Switched to **GitLab**
+- <a href="https://gitlab.com/obaidismailz" >Checkout My Gitlab </a>
 
 <a href="https://gitlab.com/obaidismailz" target="blank"><img src="/GitLab.jpg"  /></a>
 
