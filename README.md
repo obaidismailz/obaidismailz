@@ -1,8 +1,7 @@
 <h1 align="center">AOA 👋, I'm OBAID ISMAIL</h1>
 <h3 align="center">Software Engineer | Frontend Developer</h3>
 
-- 💥 Switched to **GitLab**
-- <a href="https://gitlab.com/obaidismailz" >Checkout My Gitlab </a>
+- 💥 Switched to <a href="https://gitlab.com/obaidismailz" >**GitLab**  </a>
 
 <a href="https://gitlab.com/obaidismailz" target="blank"><img src="/GitLab.jpg"  /></a>
 
@@ -14,7 +13,7 @@
 
 <hr>
 
-- 🌱 I’m currently learning **JS**
+- 🌱 I’m currently learning **Angular | React | Flutter**
 
 - 📫 How to reach me **obaid@outlook.hu**
 
